@@ -1,0 +1,2 @@
+# ash-
+The aim of this model is to build up and implement an automatic parking system that will detect the parking space with the help of image processing technique of the parking lot. The proposed system helps in counting the number of parked vehicles and, identifying the number of spots available. The system detects cars through images instead of electronic sensors embedded on the roof. A camera is installed at a high and fixed position in the parking lot.
